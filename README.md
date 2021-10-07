@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsjcodes&hide_border=true&" alt="kunalsjcodes" /></p>
 
 <!--
 **Kunalsjcodes/kunalsjcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
