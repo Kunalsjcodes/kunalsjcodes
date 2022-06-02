@@ -1,4 +1,4 @@
-<h2 align="">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kunal Sharma</h2>
+<h2 align="">Hi, I'm Kunal Sharma</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kunal-sharma0312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-sharma0312" height="30" width="40" /></a>
